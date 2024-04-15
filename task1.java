@@ -1,4 +1,4 @@
-package com.semanticsquare.examples;
+package codsoft;
 
 import java.util.*;
 
